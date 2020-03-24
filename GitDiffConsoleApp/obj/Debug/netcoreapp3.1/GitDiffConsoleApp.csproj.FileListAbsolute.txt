@@ -1,0 +1,13 @@
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\bin\Debug\netcoreapp3.1\GitDiffConsoleApp.exe
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\bin\Debug\netcoreapp3.1\GitDiffConsoleApp.deps.json
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\bin\Debug\netcoreapp3.1\GitDiffConsoleApp.runtimeconfig.json
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\bin\Debug\netcoreapp3.1\GitDiffConsoleApp.runtimeconfig.dev.json
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\bin\Debug\netcoreapp3.1\GitDiffConsoleApp.dll
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\bin\Debug\netcoreapp3.1\GitDiffConsoleApp.pdb
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\obj\Debug\netcoreapp3.1\GitDiffConsoleApp.csprojAssemblyReference.cache
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\obj\Debug\netcoreapp3.1\GitDiffConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\obj\Debug\netcoreapp3.1\GitDiffConsoleApp.AssemblyInfoInputs.cache
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\obj\Debug\netcoreapp3.1\GitDiffConsoleApp.AssemblyInfo.cs
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\obj\Debug\netcoreapp3.1\GitDiffConsoleApp.dll
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\obj\Debug\netcoreapp3.1\GitDiffConsoleApp.pdb
+C:\Users\roheb\OneDrive\University of Lincoln\Year 1\Semester B\Object-Orientated Programming\Assignments\Assignment 2\Code\GitDiffConsoleApp\obj\Debug\netcoreapp3.1\GitDiffConsoleApp.genruntimeconfig.cache
